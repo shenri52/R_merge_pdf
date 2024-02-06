@@ -25,7 +25,7 @@ Dans le dossier "result", vous aurez :
   * prog_merge_pdf.R --> script principal
   * librairie.R --> script contenant les librairies utiles au programme
   * merge_pdf.R --> script d'assemblage des fichiers pdf
-  * suppression_gitkeep --> script de suppression des .gitkeep
+  * suppression_gitkeep.R --> script de suppression des .gitkeep
 
 ## Fonctionnement
 
