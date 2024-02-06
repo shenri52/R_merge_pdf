@@ -1,6 +1,6 @@
 # R_merge_pdf
 
-Ce script permet d'assembler plusieurs fichiers pdf en fonction un ou plusieurs mots contenus dans une liste de mots.
+Ce script permet d'assembler plusieurs fichiers pdf en fonction d'un ou plusieurs mots contenus dans une liste de mots.
 
 Exemple :
 Dans le dossier "data", vous copiez :
