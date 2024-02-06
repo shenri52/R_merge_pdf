@@ -1,5 +1,3 @@
-# R_merge_pdf
-
 # Script R : merge_pdf
 
 Ce script permet d'assembler plusieurs fichiers pdf en fonction d'un ou plusieurs mots contenus dans une liste de mots.
