@@ -2,11 +2,14 @@
 
 Ce script permet d'assembler plusieurs fichiers pdf en fonction d'un ou plusieurs mots contenus dans une liste de mots.
 
-Exemple :
+#### Exemple :
+
 Dans le dossier "data", vous copiez :
   * 10 fichiers pdf avec le mot BLEU dans le nom des fichiers
   * 5 fichiers pdf avec le mot VERT dans le nom des fichiers
+
 Dans la liste de mots, vous indiquez BLEU et VERT.
+
 Dans le dossier "result", vous aurez : 
   *  1 pdf avec les pages des 10 fichiers pdf qui avait le mot BLEU dans le nom des fichiers
   *  1 pdf avec les pages des 5 fichiers pdf qui avait le mot VERT dans le nom des fichiers
