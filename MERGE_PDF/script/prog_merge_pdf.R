@@ -23,6 +23,8 @@
 #     3. Lancer le script intitulé "prog_merge_pdf.R" qui se trouve dans         #
 #     le dossier "script"                                                        #
 #                                                                                #
+# Résultat :                                                                     #
+# Le ou les fichiers pdf assemblés se trouve dans le dossier 'result'.           #
 ##################################################################################
 
 
